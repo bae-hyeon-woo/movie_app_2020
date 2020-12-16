@@ -1,3 +1,3 @@
 # Movie App 2020
 
-React JS Fundmantals~!
+React JS Fundmantals Course 
